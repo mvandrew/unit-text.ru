@@ -1,5 +1,6 @@
 <?php
-require_once ("../src/Email.php");
+require_once (dirname(__FILE__) . "/../src/Email.php");
+
 /**
  * Created by PhpStorm.
  * User: msav
