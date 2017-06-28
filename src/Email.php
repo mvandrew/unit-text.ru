@@ -35,6 +35,6 @@ final class Email
 	}
 
 	private function some_test() {
-		$i = 0;
+		$i = 7;
 	}
 }
